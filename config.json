@@ -1,0 +1,16 @@
+{
+    "prefix": ">",
+    "auth_token": "1b231bb6-121c-489d-a3b8-12a7bc583dc2",
+    "discord_token": "",
+    "api_url": "https://reseller.packetstream.io/",
+
+    "embed": {
+        "info_color": [50, 67, 125],
+        "error_color": [171, 17, 17]
+    },
+
+    "proxy_defaults": {
+        "host": "proxy.packetstream.io",
+        "port": 31112
+    }
+}
